@@ -1,9 +1,10 @@
 body {
  font-family: Arial, sans-serif;
- background: linear-gradient(to bottm, #f0f8ff, #d08ff);
+ background: linear-gradient(to bottom, #f0f8ff, #d0f8ff);
  text-align: center;
  margin: 0;
  padding: 0;
+ border: 5px solid red;
 }
 
 h1 {
@@ -20,7 +21,7 @@ nav a {
  margin: 0 15px;
  text-decoration: none;
  color: #3498db;
- font-weight: bold;
+ font-weight: 700;
  transition: color 0.3s;
 }
 
@@ -33,3 +34,4 @@ p {
  color: #34495e;
  margin-top: 20px;
 }
+
